@@ -1,0 +1,187 @@
+ 
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.mostouter{
+   
+    height: 100vh;
+    width:100vw;
+    background: url("/img/building-302769.jpeg");
+    padding:20px 100px ;
+    position: relative;
+    
+}
+
+.outerdiv{
+    height: 450px;
+    width:290px;
+    background:white;
+    border-radius: 30px;
+
+}
+
+.innerheading{
+
+    padding:20px 100px;;
+}
+
+
+#hey{
+    
+    color:lightgreen;
+    text-decoration: underline;
+}
+
+.stylingpara{
+    padding:5px 50px;
+    text-align: justify;
+}
+
+.btn{
+    padding:20px 50px;
+}
+
+#nr{
+   height:40px;
+    width:200px;
+    background:blue;
+    border-radius:40px;
+    cursor: pointer;
+    
+    padding:5px 50px;
+}
+
+#toosee{
+
+    color:white;
+}
+
+.card1{
+    height:250px;
+    width:170px;
+    background:white;
+    position:absolute;
+    top:40px;
+    left:500px;
+    border-radius: 30px;
+}
+
+#card-head{
+
+    height:60px;
+    background:skyblue;
+    padding:10px 50px;
+    border-top-left-radius: 30px;    
+    border-top-right-radius: 30px;    
+
+}
+
+#card-ele{
+    font-family:cursive;
+    color:white;
+}
+
+.card-img{
+    padding:10px 50px;
+}
+
+.card-btn1{
+
+    padding:0px 10px;
+
+}
+#npr{
+    height:30px;
+    width:150px;
+    background:lightgreen;
+    border-radius:40px;
+    cursor: pointer;
+    color:white;
+    padding:5px 50px;
+}
+
+#this{
+    text-align: center;
+}
+
+.card-btn2{
+    padding:10px;
+}
+
+#ncr{
+    height:30px;
+    width:150px;
+    background:blue;
+    border-radius:40px;
+    cursor: pointer;
+    color:white;
+    padding:5px 40px;
+}
+
+.card2{
+
+    height:250px;
+    width:170px;
+    background:white;
+    position:absolute;
+    top:40px;
+    left:720px;
+    border-radius: 30px;
+}
+
+.card3{
+
+    
+    height:250px;
+    width:170px;
+    background:white;
+    position:absolute;
+    top:40px;
+    left:940px;
+    border-radius: 30px;
+
+}
+
+
+.card4{
+
+    
+    height:250px;
+    width:170px;
+    background:white;
+    position:absolute;
+    top:320px;
+    left:500px;
+    border-radius: 30px;
+
+}
+
+.card5{
+
+    
+    height:250px;
+    width:170px;
+    background:white;
+    position:absolute;
+    top:320px;
+    left:720px;
+    border-radius: 30px;
+
+}
+
+.card6{
+
+    
+    height:250px;
+    width:170px;
+    background:white;
+    position:absolute;
+    top:320px;
+    left:940px;
+    border-radius: 30px;
+
+}
+
